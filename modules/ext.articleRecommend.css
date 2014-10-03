@@ -1,0 +1,32 @@
+div.articleRecommend *{
+    font-size: 14px;}
+div.arRec br {
+    display: none;}
+div.arRec li {
+    display: inline;}
+div.arHolder {
+    overflow-x: hidden;}
+div.arRec {
+    display: block;
+    float: left;
+    margin: 5px;}
+div.arRec h6 {
+    margin: 0;}
+ul.arLinks {
+    display: block;
+    text-align:center;}
+li.arLink {
+    display: inline-block;
+    margin: 0 2px !important;
+    width: 10px;
+    height: 10px;
+    border: 1px solid #e0e0e0;
+    font-size: 5px !important;
+    background: #efefef;
+    color: #efefef;
+    cursor: pointer;}
+br.arClear {
+    display: block;
+    clear: both;
+    margin-top: -1px;
+    height: 1px;}
